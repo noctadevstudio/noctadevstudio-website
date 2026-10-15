@@ -1,41 +1,35 @@
 # Nocta Dev Studio
 
-Official website of **Nocta Dev Studio**, an independent mobile app development studio focused on creating thoughtful, intuitive, and engaging digital experiences.
+Official website of **Nocta Dev Studio**, an independent app studio creating thoughtful mobile experiences for Android and iOS.
 
-**Website:** [noctadevstudio.com](https://noctadevstudio.com)
+**Website:** [noctadevstudio.com](https://noctadevstudio.com/)
 
-## About
+## Featured app
 
-Nocta Dev Studio is an independent software development brand specializing in mobile applications for Android and iOS.
+[Playlogr](https://playlogr.com) — **Your gaming journey, tracked.**
 
-Our goal is to build useful, well-designed applications that make everyday experiences simpler and more enjoyable.
+A game collection and gaming session tracker for Android and iOS, currently in development.
 
-## Our Apps
+## Technology
 
-### Playlogr
+Built with semantic HTML, CSS, and vanilla JavaScript. No dependencies, build step, backend, or tracking.
 
-**Your gaming journey, tracked.**
+## Local preview
 
-Playlogr is a video game and gaming session tracker that helps players organize their gaming activity, track playtime, and explore detailed statistics, charts, and insights.
+Open `index.html` in a browser, or run the following from the repository root with Python installed:
 
-**Website:** [playlogr.com](https://playlogr.com)
+```sh
+python -m http.server 8000 --bind 127.0.0.1
+```
 
-More applications are planned for the future.
+Visit `http://127.0.0.1:8000/`. Stop the server with Ctrl+C.
 
-## Website
+## Deployment
 
-This website serves as the official online presence of Nocta Dev Studio, featuring information about the studio, its applications, and contact details.
-
-## Contact
-
-For inquiries, feedback, or collaboration opportunities:
-
-**Email:** contact@playlogr.com
-
-**Website:** https://noctadevstudio.com
+See [DEPLOYMENT.md](DEPLOYMENT.md) for GitHub Pages, custom domain, DNS, and HTTPS setup.
 
 ## Copyright
 
 © 2026 Nocta Dev Studio. All rights reserved.
 
-The Nocta Dev Studio name, logo, and associated branding are proprietary and may not be used without permission.
+No open-source license has been granted. The studio name, logo, visual identity, and brand artwork are proprietary.
