@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="5 0 224 224" role="img" aria-labelledby="title">
+  <title id="title">NoctaDev Studio — crescent moon and N</title>
+  <defs>
+    <linearGradient id="logo-gradient" x1="0" y1="20" x2="0" y2="206" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E6AF55"/>
+      <stop offset="0.16" stop-color="#DFA74F"/>
+      <stop offset="0.3" stop-color="#B49978"/>
+      <stop offset="0.43" stop-color="#6F7580"/>
+      <stop offset="0.55" stop-color="#2C5795"/>
+      <stop offset="0.75" stop-color="#244F93"/>
+      <stop offset="1" stop-color="#204889"/>
+    </linearGradient>
+    <linearGradient id="letter-gradient" x1="0" y1="83.5" x2="0" y2="177.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#DFA74F"/>
+      <stop offset="0.28" stop-color="#B99A70"/>
+      <stop offset="0.47" stop-color="#777A80"/>
+      <stop offset="0.62" stop-color="#2C5795"/>
+      <stop offset="1" stop-color="#204889"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#logo-gradient)" stroke="none">
+    <!-- Crescent and circuit traces -->
+    <path d="M97 53C117 39 144 37 169.5 45C140 44 111 66 97 92Z
+      M55.2 126.8 101.5 166.8C119.6 195.8 150 210 184 207.9C160.3 219.2 131.5 220.1 106.5 209.9C74 196.9 54.7 165.4 55.2 126.8Z
+      M53.2 74H55.8V96.7L59.4 99.9 66.7 84V100.4L90.2 122.7V133.4L53.2 99Z
+      M71 54H73.8V71.5L77.4 68.7V96.2L91.5 109 90.5 117.8 71 99.2Z
+      M91.5 10.2C93 19 94.8 21 104 23C94.8 25 93.6 26.8 93.2 35V100.2L92.4 104.5 81.5 95V65L90.2 57.2V35C89.6 26.8 87.6 24.7 79.4 23C87.6 21 89.7 19 91.5 10.2Z
+      M56.5 109.4 91.5 140.3C92.7 146.5 94.9 152.1 97.7 157.7L55.5 121.3H48C43.4 121.3 42 124.1 40.8 131.3C39.5 124.1 37.5 122.1 29 120.3C37.5 118.6 39.5 116.5 40.8 109.3C42 116.5 43.4 118.7 48 118.7H55.5Z"/>
+    <g fill="none" stroke="url(#logo-gradient)" stroke-width="2.5">
+      <circle cx="54.5" cy="68.5" r="5"/>
+      <circle cx="73" cy="48.3" r="5.3"/>
+    </g>
+    <!-- Small four-point stars -->
+    <path d="M63.5 5.5C64.1 9.1 65.1 10 68.5 10.8C65.1 11.5 64.1 12.5 63.5 16C62.7 12.5 61.8 11.5 58.3 10.8C61.8 10 62.7 9.1 63.5 5.5Z
+      M119.7 21.3C120.6 25.8 121.8 27.1 126.7 28C121.8 28.9 120.6 30.3 119.7 34.8C118.7 30.3 117.4 28.9 112.6 28C117.4 27.1 118.7 25.8 119.7 21.3Z
+      M33 88C33.8 91.7 34.9 92.7 38.5 93.4C34.9 94.2 33.8 95.3 33 99C32.2 95.3 31.1 94.2 27.5 93.4C31.1 92.7 32.2 91.7 33 88Z"/>
+    <!-- Three diagonal ribbons form the N -->
+    <path fill="url(#letter-gradient)" d="M126.5 111.3 136.8 124.278V177.8H126.5Z
+      M126.5 92.8 193.960317 177.8H185.071429L146 128.57V177.8H141V122.27L126.5 104Z
+      M126.5 83.5H133.801587L206.8 175.478V177.8H199.753968L126.5 85.5Z
+      M139.595238 83.5H148.484127L186.5 131.4V83.5H191.8V138.078L206.8 156.978V168.178Z
+      M196.5 83.5H206.8V151.056L196.5 138.078Z"/>
+  </g>
+</svg>
