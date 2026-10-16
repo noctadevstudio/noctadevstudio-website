@@ -1,6 +1,6 @@
 # Deployment
 
-Hosting setup for [Nocta Dev Studio](https://noctadevstudio.com/) using GitHub Pages and a Namecheap domain.
+Hosting setup for [NoctaDev Studio](https://noctadevstudio.com/) using GitHub Pages and a Namecheap domain.
 
 ## Publish on GitHub Pages
 

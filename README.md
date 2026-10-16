@@ -1,6 +1,6 @@
-# Nocta Dev Studio
+# NoctaDev Studio
 
-Official website of **Nocta Dev Studio**, an independent app studio creating thoughtful mobile experiences for Android and iOS.
+Official website of **NoctaDev Studio**, an independent app studio creating thoughtful mobile experiences for Android and iOS.
 
 **Website:** [noctadevstudio.com](https://noctadevstudio.com/)
 
@@ -30,6 +30,6 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for GitHub Pages, custom domain, DNS, and HTT
 
 ## Copyright
 
-© 2026 Nocta Dev Studio. All rights reserved.
+© 2026 NoctaDev Studio. All rights reserved.
 
 No open-source license has been granted. The studio name, logo, visual identity, and brand artwork are proprietary.
